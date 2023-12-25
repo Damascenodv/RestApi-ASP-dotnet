@@ -1,0 +1,12 @@
+D:\projetos\RestApi-ASP-dotnet\Reactivities\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\projetos\RestApi-ASP-dotnet\Reactivities\Domain\bin\Debug\net7.0\Domain.dll
+D:\projetos\RestApi-ASP-dotnet\Reactivities\Domain\bin\Debug\net7.0\Domain.pdb
+D:\projetos\RestApi-ASP-dotnet\Reactivities\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\projetos\RestApi-ASP-dotnet\Reactivities\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\RestApi-ASP-dotnet\Reactivities\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\projetos\RestApi-ASP-dotnet\Reactivities\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\projetos\RestApi-ASP-dotnet\Reactivities\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\projetos\RestApi-ASP-dotnet\Reactivities\Domain\obj\Debug\net7.0\Domain.dll
+D:\projetos\RestApi-ASP-dotnet\Reactivities\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\projetos\RestApi-ASP-dotnet\Reactivities\Domain\obj\Debug\net7.0\Domain.pdb
+D:\projetos\RestApi-ASP-dotnet\Reactivities\Domain\obj\Debug\net7.0\ref\Domain.dll

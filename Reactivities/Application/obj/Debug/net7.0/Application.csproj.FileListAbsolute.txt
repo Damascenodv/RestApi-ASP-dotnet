@@ -1,0 +1,17 @@
+D:\projetos\RestApi-ASP-dotnet\Reactivities\Application\bin\Debug\net7.0\Application.deps.json
+D:\projetos\RestApi-ASP-dotnet\Reactivities\Application\bin\Debug\net7.0\Application.dll
+D:\projetos\RestApi-ASP-dotnet\Reactivities\Application\bin\Debug\net7.0\Application.pdb
+D:\projetos\RestApi-ASP-dotnet\Reactivities\Application\bin\Debug\net7.0\Domain.dll
+D:\projetos\RestApi-ASP-dotnet\Reactivities\Application\bin\Debug\net7.0\Persistence.dll
+D:\projetos\RestApi-ASP-dotnet\Reactivities\Application\bin\Debug\net7.0\Domain.pdb
+D:\projetos\RestApi-ASP-dotnet\Reactivities\Application\bin\Debug\net7.0\Persistence.pdb
+D:\projetos\RestApi-ASP-dotnet\Reactivities\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+D:\projetos\RestApi-ASP-dotnet\Reactivities\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\RestApi-ASP-dotnet\Reactivities\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+D:\projetos\RestApi-ASP-dotnet\Reactivities\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+D:\projetos\RestApi-ASP-dotnet\Reactivities\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+D:\projetos\RestApi-ASP-dotnet\Reactivities\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+D:\projetos\RestApi-ASP-dotnet\Reactivities\Application\obj\Debug\net7.0\Application.dll
+D:\projetos\RestApi-ASP-dotnet\Reactivities\Application\obj\Debug\net7.0\refint\Application.dll
+D:\projetos\RestApi-ASP-dotnet\Reactivities\Application\obj\Debug\net7.0\Application.pdb
+D:\projetos\RestApi-ASP-dotnet\Reactivities\Application\obj\Debug\net7.0\ref\Application.dll
